@@ -1,5 +1,6 @@
 {
   "name": "lab3_eventplanner",
+  "homepage": "https://si-mpl.github.io/CSRA-event_planner/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
