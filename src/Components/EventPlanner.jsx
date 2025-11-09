@@ -87,6 +87,7 @@ const EventPlanner = () => {
                     <button className="submit-button">Send</button>
                 </form>
             </section>
+            import Footer from './Footer'
         </div>
     );
 };
