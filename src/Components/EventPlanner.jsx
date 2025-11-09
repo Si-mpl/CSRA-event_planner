@@ -1,4 +1,5 @@
 import React from 'react';
+import Footer from './Footer'
 import './EventPlanner.css'; // Import CSS file for styling
 
 const EventPlanner = () => {
@@ -87,7 +88,7 @@ const EventPlanner = () => {
                     <button className="submit-button">Send</button>
                 </form>
             </section>
-            import Footer from './Footer'
+            <Footer/>
         </div>
     );
 };
